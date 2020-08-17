@@ -1,6 +1,6 @@
 # optionData
 
-A simple options trading analysis tool that reads daily options trade data and outputs volume statistics and graphs.
+A simple options trading analysis tool coded in Python that reads daily options trade data and outputs volume statistics and graphs.
 
 ### Usage
 
