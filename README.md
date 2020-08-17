@@ -2,7 +2,7 @@
 
 A simple options trading analysis tool that reads daily options trade data and outputs volume statistics and graphs.
 
-## Usage
+### Usage
 
 main.py is the primary program that uses data.py to analyze the data files.
 data.py contains 3 classes that are used to read the data files, extract the relevant info, store any useful data, and output the desired statistics/graphs.
